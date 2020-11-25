@@ -4,3 +4,4 @@ eg a user enters 123456
 the result shows:123***
                     ***456
 Note; number of '*' = total length of inputted number
+
